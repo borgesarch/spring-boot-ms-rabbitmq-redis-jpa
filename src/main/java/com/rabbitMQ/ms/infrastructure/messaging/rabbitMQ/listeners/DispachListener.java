@@ -1,4 +1,4 @@
-package com.rabbitMQ.ms.infrastructure.rabbitMQ.listeners;
+package com.rabbitMQ.ms.infrastructure.messaging.rabbitMQ.listeners;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;

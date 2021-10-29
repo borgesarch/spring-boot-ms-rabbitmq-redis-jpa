@@ -1,4 +1,4 @@
-package com.rabbitMQ.ms.infrastructure.rabbitMQ.listeners;
+package com.rabbitMQ.ms.infrastructure.messaging.rabbitMQ.listeners;
 
 import com.rabbitMQ.ms.domain.aggregates.Payment;
 import com.rabbitMQ.ms.infrastructure.resources.PaymentResource;

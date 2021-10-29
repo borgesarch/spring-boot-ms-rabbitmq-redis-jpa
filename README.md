@@ -6,7 +6,7 @@
 
 
 # Spring Boot RabbitMQ, Redis e Spring JPA.
-Solução simples para comunicação de serviços via RabbitMQ e melhorando a performance com Redis para cachegamento.
+Solução simples para comunicação de serviços via RabbitMQ e melhorando a performance com Redis para cacheamento.
 
 
 

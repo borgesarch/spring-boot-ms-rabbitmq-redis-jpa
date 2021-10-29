@@ -47,9 +47,9 @@ public class SwaggerConfiguration extends WebMvcConfigurationSupport {
                         "http://github.com/borgesdeveloper",
                         "gabrielborges.web@gmail.com"
                 ))
-                .description("API CUSTOMERS")
+                .description("API PAYMENTS")
                 .version("V1")
-                .title("API CUSTOMERS")
+                .title("API PAYMENTS")
                 .build();
     }
 }

@@ -1,6 +1,6 @@
 
 
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/rabbitmq-logo-freelogovectors.net_-768x123.png" width="280"><img src="https://th.bing.com/th/id/R.c70998c09711ec9cc6b373d5427b4f3f?rik=J%2f8td1sh8%2bf7cw&pid=ImgRaw&r=0" width="200"><img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" width="150">
+<img src="https://th.bing.com/th/id/R.c70998c09711ec9cc6b373d5427b4f3f?rik=J%2f8td1sh8%2bf7cw&pid=ImgRaw&r=0" width="200"><img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo.png" width="150">
 
 
 
